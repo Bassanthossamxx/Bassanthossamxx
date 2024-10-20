@@ -1,17 +1,13 @@
-<h2 align="center">Hey there!👋🏽 I'm Bassant Hossam, a girl who codes and loves making cool stuff happen!✨ </h2>
+<h2 align="center">Hey there!✨ I’m Bassant Hossam, your favorite Debugging Diva! 🎀💖</h2>
 
 <h3>About me</h3>
+<img align="right" alt="coding" width="330" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif">
+
 
 - 💻 I love crafting beautiful, responsive websites with React and sprinkling in some backend magic!
 - 🌱 Currently deep-diving into backend and all things frontend.
 - ✨ Fun fact: I’m obsessed with making things look pretty—both in design and in code.
 - 📫 How to reach me: **bassanthos04@gmail.com** .
-
-<div align="center">
-  <iframe src="https://giphy.com/embed/3oKIPnAiaMCws8nOsE" width="480" height="360" frameborder="0" class="giphy-embed" allowfullscreen></iframe>
-  <p><a href="https://giphy.com/gifs/cat-kitten-computer-3oKIPnAiaMCws8nOsE">via GIPHY</a></p>
-</div>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/bassant-hossam-5a4177264/" target="blank">
