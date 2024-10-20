@@ -3,8 +3,6 @@ Here's a fun and personalized README update for Bassant Hossam:
 
 <h2 align="center">Hey there 👋! I'm Bassant Hossam !</h2>
 
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif?cid=ecf05e470ee75w7ojsei419duhuyr38y8rgi05zh2sv84luo&ep=v1_gifs_search&rid=giphy.gif&ct=g">
-
 <h3>About me</h3>
 
 - 💻 I love crafting beautiful, responsive websites with React and sprinkling in some backend magic!
