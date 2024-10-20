@@ -1,7 +1,4 @@
-## Hi there 👋
-Here's a fun and personalized README update for Bassant Hossam:
-
-<h2 align="center">Hey there 👋! I'm Bassant Hossam !</h2>
+<h2 align="center">Hey there! I'm Bassant Hossam, a girl who codes and loves making cool stuff happen!</h2>
 
 <h3>About me</h3>
 
