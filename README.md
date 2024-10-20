@@ -43,13 +43,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sql logo" />
   <img width="12" />
+  <img src="https://cdn-icons-png.flaticon.com/512/3521/3521352.png" height="30" alt="codeforces logo" />
+  <img width="12" />
+  <img src="https://cdn-icons-png.flaticon.com/512/3521/3521542.png" height="30" alt="leetcode logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Codeforces_logo.svg/512px-Codeforces_logo.svg.png" height="30" alt="codeforces logo" />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/1/19/LeetCode_logo_black.png/640px-LeetCode_logo_black.png" height="30" alt="leetcode logo" />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/en/4/4f/Vjude_logo.png" height="30" alt="vjude logo" />
 </p>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=bassanthossam&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph" />
