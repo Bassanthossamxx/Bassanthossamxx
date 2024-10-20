@@ -6,17 +6,14 @@ Here's a fun and personalized README update for Bassant Hossam:
 <h3>About me</h3>
 
 - 💻 I love crafting beautiful, responsive websites with React and sprinkling in some backend magic!
-- 🌱 Currently deep-diving into JavaScript and all things frontend.
+- 🌱 Currently deep-diving into backend and all things frontend.
 - ✨ Fun fact: I’m obsessed with making things look pretty—both in design and in code.
-- 📫 How to reach me: **bassanthossam@example.com** (Change this to your real email).
+- 📫 How to reach me: **bassanthos04@gmail.com** .
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/bassanthossam/" target="blank">
+  <a href="" target="blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-  <a href="https://medium.com/@bassanthossam" target="blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo" />
   </a>
 </p>
 
