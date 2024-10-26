@@ -6,7 +6,6 @@
 - 💻 I love crafting beautiful, responsive websites with React and sprinkling in some backend magic!
 - 🌱 Currently deep-diving into backend and all things frontend.
 - ✨ Fun fact: I’m obsessed with making things look pretty—both in design and in code.
-- 📫 How to reach me: **bassanthos04@gmail.com**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -51,5 +50,4 @@
 </p>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=bassanthossam&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=bassanthossam&show_icons=true&locale=en&theme=tokyonight" alt="bassanthossam" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bassanthossam&&theme=tokyonight" alt="bassanthossam" />
