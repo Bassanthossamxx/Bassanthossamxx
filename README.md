@@ -49,5 +49,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" />
 </p>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=bassanthossam&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bassanthossam&&theme=tokyonight" alt="bassanthossam" />
+<!-- Updated Top Languages Stats Image -->
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bassanthossam&langs_count=5&theme=tokyonight&hide_border=true"  alt="languages graph" />
+
+<!-- Updated Streak Stats Image -->
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bassanthossam&theme=tokyonight&hide_border=true" alt="bassanthossam" />
