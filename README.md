@@ -13,7 +13,6 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
 </p>
-
 <h3 align="left">Languages and Tools I Love:</h3>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
@@ -40,17 +39,27 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sql logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo" />
   <img width="12" />
   <img src="https://cdn-icons-png.flaticon.com/512/3521/3521352.png" height="30" alt="codeforces logo" />
   <img width="12" />
   <img src="https://cdn-icons-png.flaticon.com/512/3521/3521542.png" height="30" alt="leetcode logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoft sql server logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30" alt=".NET logo" />
 </p>
 
 <!-- Updated Top Languages Stats Image -->
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bassanthossam&langs_count=5&theme=tokyonight&hide_border=true"  alt="languages graph" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bassanthossamxx&langs_count=5&theme=tokyonight&hide_border=true"  alt="languages graph" />
 
 <!-- Updated Streak Stats Image -->
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bassanthossam&theme=tokyonight&hide_border=true" alt="bassanthossam" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bassanthossamxx&theme=tokyonight&hide_border=true" alt="bassanthossamxx" />
