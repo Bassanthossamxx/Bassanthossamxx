@@ -1,19 +1,27 @@
-<h2 align="center">Hey there!✨ I’m Bassant Hossam, your favorite Debugging Diva! 🎀💖</h2>
+<h2 align="center">Hey there!✨ I’m Bassant, your Fav Debugging Diva! 🎀</h2>
 
 <h3>About me</h3>
 <img align="right" alt="coding" width="330" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif">
 
-- 💻 I love crafting beautiful, responsive websites with React and sprinkling in some backend magic!
-- 🌱 Currently deep-diving into backend and all things frontend.
-- ✨ Fun fact: I’m obsessed with making things look pretty—both in design and in code.
+💻 Backend Developer, ex-Frontend with React , Love adding magic to software. 
+
+🌟 Co-lead at GDG BNU Backend & Founding Engineer at Byte Hive as Backend Developer. 
+
+📚 Exploring software and app development As a Computer science student deeply with Obsessed with beauty in code and design. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/bassant-hossam-5a4177264/" target="blank">
-    <img src="https://img.shields.io/static/v1?message=linkedin&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"  width="8%" alt="linkedin logo" />
   </a>
     <a href="https://x.com/bassanthss?s=21" target="blank">
-    <img src="https://img.shields.io/static/v1?message=X&logo=X&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="X logo" />
+ <img src="https://img.shields.io/badge/X-12100E?logo=X&logoColor=white" alt="X logo" width="5%"/>
+  </a>
+   <a href="https://medium.com/@bassant.hos04" target="blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="medium logo" width="10%"/>
+  </a>
+     <a href="mailto:bassant.hos04@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/gmail-12100E?logo=gmail&logoColor=white" alt="gmail logo" width="8.5%"/>
   </a>
 </p>
 <h3 align="left">
@@ -29,27 +37,6 @@
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" height="40" alt="python logo"  />
 </div>
-
-<h3 align="left">
-    Frontend Development:
-</h3>
-
-<div align="left" style="display: flex; gap: .5rem">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img src="https://skillicons.dev/icons?i=htmx" height="40" alt="htmx logo"  />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" height="40" alt="ts logo"  />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
-    <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo"  />
-    <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-    <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquery logo"  />
-   <img src="https://skillicons.dev/icons?i=npm" height="40" alt="npm logo"  />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
-</div>
-
 <h3 align="left">
     Backend Development:
 </h3>
@@ -63,7 +50,25 @@
   <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
       <img src="https://skillicons.dev/icons?i=heroku" height="40" alt="heroku logo"  />
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
+    <img src="https://skillicons.dev/icons?i=htmx" height="40" alt="htmx logo"  />
+</div> 
+<h3 align="left">
+    Frontend Development:
+</h3>
+
+<div align="left" style="display: flex; gap: .5rem">
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" height="40" alt="ts logo"  />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
+    <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo"  />
+    <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquery logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
 </div>
+
 <h3 align="left">
     Tools & Utilities:
 </h3>
