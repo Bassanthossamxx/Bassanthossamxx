@@ -58,8 +58,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30" alt=".NET logo" />
 </p>
 
-<!-- Updated Top Languages Stats Image -->
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bassanthossamxx&langs_count=5&theme=tokyonight&hide_border=true"  alt="languages graph" />
-
-<!-- Updated Streak Stats Image -->
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bassanthossamxx&theme=tokyonight&hide_border=true" alt="bassanthossamxx" />
