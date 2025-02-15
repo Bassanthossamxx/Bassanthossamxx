@@ -1,6 +1,6 @@
-<h2 align="center">Hey there!✨ I’m Bassant, your Fav Debugging Diva! 🎀</h2>
+<h1 align="center">Hey there!✨ I’m Bassant, your Fav Debugging Diva! 🎀</h1>
 
-<h3>About me</h3>
+<h2>About me</h2>
 <img align="right" alt="coding" width="330" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif">
 
 💻 Backend Developer, ex-Frontend with React , Love adding magic to software. 
@@ -9,7 +9,7 @@
 
 📚 Exploring software and app development As a Computer science student deeply with Obsessed with beauty in code and design. 
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
   <a href="https://www.linkedin.com/in/bassant-hossam-5a4177264/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"  width="8%" alt="linkedin logo" />
@@ -24,9 +24,9 @@
     <img src="https://img.shields.io/badge/gmail-12100E?logo=gmail&logoColor=white" alt="gmail logo" width="8.5%"/>
   </a>
 </p>
-<h3 align="left">
+<h2 align="left">
     Programming Languages:
-</h3>
+</h2>
 
 
 <div align="left" style="display: flex; gap: .5rem">
@@ -37,9 +37,9 @@
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" height="40" alt="python logo"  />
 </div>
-<h3 align="left">
+<h2 align="left">
     Backend Development:
-</h3>
+</h2>
 
 <div align="left" style="display: flex; gap: .5rem">
     <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
@@ -52,9 +52,9 @@
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
     <img src="https://skillicons.dev/icons?i=htmx" height="40" alt="htmx logo"  />
 </div> 
-<h3 align="left">
+<h2 align="left">
     Frontend Development:
-</h3>
+</h2>
 
 <div align="left" style="display: flex; gap: .5rem">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
@@ -69,9 +69,9 @@
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
 </div>
 
-<h3 align="left">
+<h2 align="left">
     Tools & Utilities:
-</h3>
+</h2>
 
 <div align="left" style="display: flex; gap: .5rem">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PyCharm-Dark.svg" height="40" alt="jetbrains logo"  />
