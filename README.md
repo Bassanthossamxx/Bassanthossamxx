@@ -14,18 +14,22 @@
 <h2>Connect with me </h2>
 <p align="left">
   <a href="https://www.linkedin.com/in/bassant-hossam-5a4177264/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" width="8%" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-12100E?logo=linkedin&logoColor=white" width="8%" alt="LinkedIn" />
   </a>
-  <a href="https://x.com/bassanthss?s=21" target="_blank">
-    <img src="https://img.shields.io/badge/X-12100E?logo=X&logoColor=white" width="5%" alt="X" />
+
+  <a href="https://x.com/bassanthossammm?s=21" target="_blank">
+    <img src="https://img.shields.io/badge/X-12100E?logo=x&logoColor=white" width="5%" alt="X" />
   </a>
+
   <a href="https://medium.com/@bassant.hos04" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" width="10%" alt="Medium" />
   </a>
-  <a href="mailto:bassant.hos04@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-12100E?logo=gmail&logoColor=white" width="8.5%" alt="Gmail" />
+
+  <a href="mailto:bassanthosamm1@outlook.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-12100E?logo=microsoft-outlook&logoColor=white" width="6%" alt="Email" />
   </a>
 </p>
+
 
 ---
 
